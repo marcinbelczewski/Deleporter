@@ -10,7 +10,7 @@ namespace DeleporterTest.Client
     public class Setup
     {
         private const string RelativePathToServerApp = "..\\..\\..\\Deleporter.Test.Server";
-        private const string ServerAppUrl = "http://localhost:8081/";
+        private const string ServerAppUrl = "http://localhost:43073/";
         private const string ServerAppExpectedHtml = "Hello";
 
         [SetUp]
